@@ -12,6 +12,6 @@
     "@types/redis": "^2.8.13"
   },
   "dependencies": {
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   }
 }
