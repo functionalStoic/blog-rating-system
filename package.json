@@ -5,13 +5,13 @@
   "main": "index.js",
   "author": "Jason Sooter",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "devDependencies": {
-    "@now/node": "^0.11.0",
-    "@types/node": "^12.0.12",
-    "@types/redis": "^2.8.13"
+    "@now/node": "^0.9.0",
+    "@types/node": "^10.12.18",
+    "@types/redis": "^2.8.12"
   },
   "dependencies": {
-    "redis": "^2.8.0"
+    "redis": "2.8.0"
   }
 }
